@@ -12,7 +12,7 @@
 ---
 ## 🛤️ My Journey in Tech  
 
-- 🎮 **Curiosity Phase**: hStarted with fascination for how games & websites work.  
+- 🎮 **Curiosity Phase**: Started with fascination for how games & websites work.  
 - 📚 **Learning Phase**: Built foundation via free online resources + Java mentorship.  
 - 🤖 **AI Awakening**: Generative AI workshop transformed my perspective.  
 - 💡 **Project Builder**: Applied AI + frontend skills to real projects.  
@@ -26,7 +26,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,css,js,java,html,python,netlify,express,nextjs,nodejs" /><br>
-    <img src="https://skillicons.dev/icons?i=react,tailwind,vite,mongodb,mysql,numpy,pandas,sklearn,git,github" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,vite,mongodb,mysql,sklearn,git,github" />
   </a>
 </p>
 
