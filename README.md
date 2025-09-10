@@ -12,7 +12,7 @@
 ---
 ### 👨‍💻 About Me
 
-I'm a passionate and driven 3rd-year B.Tech Computer Science student. My journey into technology began with a simple fascination for how games and websites work. This early curiosity, even with limited resources, ignited a drive to understand the mechanics behind the digital world.
+I'm a passionate and driven 4th-year B.Tech Computer Science student. My journey into technology began with a simple fascination for how games and websites work. This early curiosity, even with limited resources, ignited a drive to understand the mechanics behind the digital world.
 
 - 🔭 I've built my technical foundation primarily through self-learning using online resources, which has instilled in me a strong sense of initiative and the ability to grasp new concepts quickly.
 
