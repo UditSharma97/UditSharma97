@@ -10,13 +10,15 @@
 
 
 ---
-## 🛤️ My Journey in Tech  
+### 👨‍💻 About Me
 
-- 🎮 **Curiosity Phase**: Started with fascination for how games & websites work.  
-- 📚 **Learning Phase**: Built foundation via free online resources + Java mentorship.  
-- 🤖 **AI Awakening**: Generative AI workshop transformed my perspective.  
-- 💡 **Project Builder**: Applied AI + frontend skills to real projects.  
-- 🚀 **Next Step**: Seeking internships & full-time roles in AI/ML & Full-stack.  
+I'm a passionate and driven 3rd-year B.Tech Computer Science student. My journey into technology began with a simple fascination for how games and websites work. This early curiosity, even with limited resources, ignited a drive to understand the mechanics behind the digital world.
+
+- 🔭 I've built my technical foundation primarily through self-learning using online resources, which has instilled in me a strong sense of initiative and the ability to grasp new concepts quickly.
+
+- 🚀 My perspective on technology was recently transformed by an intensive Generative AI workshop with mentors like **Phani Krishna** and **Vaibhav Sisinty**. This experience opened my eyes to AI's incredible potential for productivity and innovation.
+
+- 🌱 My background has taught me the value of resilience, continuous self-improvement, and the energy that comes from genuine curiosity. I'm now keenly focused on the frontiers of Generative AI, AI Automation, and building AI Agents.
 
 
 
