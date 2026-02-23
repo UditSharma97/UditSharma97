@@ -9,7 +9,7 @@
 
 I’m a final-year B.Tech Computer Science student focused on building scalable backend systems using **Node.js, Express, and MongoDB**, with hands-on experience in applied Machine Learning projects using **Python**.
 
-I enjoy designing clean RESTful APIs, structuring applications using MVC architecture, and building full-stack applications with server-rendered views.
+I enjoy designing clean RESTful APIs and building full-stack applications with server-rendered views.
 
 Currently strengthening my backend fundamentals while exploring practical ML systems.
 
@@ -27,14 +27,14 @@ HTML, CSS, JavaScript, EJS, Bootstrap
 Python, Pandas, Scikit-learn, Data Preprocessing  
 
 **Tools:**  
-Git, GitHub, Postman, VS Code  
+Git, GitHub, VS Code  
 
 ---
 
 ## Selected Projects
 
 ###  Wanderlust – Travel Listing Platform
-Full-stack web application built using Node.js and MongoDB with RESTful routing and MVC architecture.
+Full-stack web application built using Node.js and MongoDB with RESTful routing.
 
 **Tech:** Node.js, Express, MongoDB, EJS, Bootstrap  
 
@@ -50,7 +50,7 @@ Content-based recommendation engine using cosine similarity on TMDB dataset.
 ### Community Management System
 Console-based Java application focused on OOP principles and data structures.
 
-**Tech:** Java, Collections Framework  
+**Tech:** Java, Collections Framework 
 
 ---
 
